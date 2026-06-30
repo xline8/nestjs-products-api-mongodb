@@ -1,4 +1,4 @@
-# Products API — NestJS & MongoDB Atlas
+# Products API, NestJS & MongoDB Atlas
 
 REST API untuk manajemen data produk, dibangun menggunakan NestJS sebagai backend framework dan MongoDB Atlas sebagai database cloud dengan Mongoose sebagai ODM (Object Data Modeling).
 
